@@ -86,11 +86,6 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		//'scanner.Text()' represents the test case, do something with it
 		fmt.Println(check_happy(test))
 	}
 }
-
-// for i := 0; i < len(input_data); i++ {
-//  fmt.Println(input_data[i]))
-// }
