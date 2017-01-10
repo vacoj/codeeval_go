@@ -1,0 +1,23 @@
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+computer Konrad 1943 for Z3 programming 1945 to designed An high-level between Plankalkul, German language a developed for Zuse early was by be and the;11 20 23 9 18 4 25 6 8 1 3 22 13 17 5 10 14 15 21 2 12 19 7 24
+2 Hartley the was of 1961 version of devised for by Laboratory The University Cambridge EDSAC in Mathematical;6 10 4 7 13 18 2 11 8 3 9 16 1 12 14 5 17
+1954 developed autocode "Mark The Mark and second for the Brooker by was 1 was 1 in Autocode" the called;13 5 3 18 1 8 14 2 6 7 11 10 4 19 15 9 12 20 17
+first computer of be the at to and high-level language The for programming first code considered Manchester 1952 compiled the is in Mark compiler 1 was University the and developed;2 14 18 24 25 15 23 4 28 30 1 10 29 26 3 22 19 9 27 16 21 8 12 5 13 6 17 11 20
+UNIVAC period until 1959 the 1955 developed It Remington at Rand from was for during I the;6 13 16 17 5 15 3 1 9 8 10 14 2 4 11 7
+making be program machine slower it machine However, running ran, had much equivalent the process code code the than translated into to every time the;15 6 3 24 19 13 9 1 21 14 4 18 23 22 17 25 10 2 20 7 8 5 11 12
+represented in code, understandable expressions Unlike Code Short mathematical machine form statements;7 10 3 11 9 1 5 4 8 2 12
+machine However, code be it time the had the running process ran, code into to machine program every making the slower than translated equivalent much;24 1 25 6 13 12 16 4 2 21 17 14 10 8 5 9 3 11 15 22 19 20 7 23
+2 the for The Laboratory devised Cambridge version 1961 Mathematical of by of was EDSAC in Hartley University;6 4 3 1 16 8 14 2 18 15 11 9 13 7 5 17 10
+instructions to communicate The to languages a programming computer written the designed were first in 1950s;8 6 7 1 9 4 10 3 11 13 15 5 12 2 14
+in developed Manchester, 1950s Autocode Glennie At University the Alick of the early;10 8 5 13 9 7 1 3 2 6 4 11
+developed University the was the programming The in compiled to considered be the 1 code at computer language high-level Manchester first for first compiler and of and is 1952 Mark;7 17 11 6 25 29 1 8 27 23 22 24 16 13 3 15 14 30 28 19 2 10 26 5 4 18 20 21 9
+until not implemented 1998 However, was and 2000 it;6 4 5 7 1 3 8 9
+at language '50s, was used the high-level The IBM the general programming purpose widely developed in became Fortran and language first mid;6 2 11 4 17 14 18 1 7 9 19 21 20 16 5 8 13 3 12 22 15
+since and at actual it were the in Flow-Matic the design direct time COBOL, only of influence AIMACO its was a major use in descendent;11 14 23 21 13 19 24 6 1 7 8 16 25 10 12 9 5 18 15 2 3 4 22 20
+first language The was mid high-level developed '50s, in widely IBM and the programming became at used the general language purpose Fortran;15 22 1 4 10 18 5 11 8 16 7 12 9 21 13 6 17 14 19 2 20
+computer programming first to in to a instructions were languages The the communicate 1950s designed written;11 3 2 9 14 6 10 8 12 4 1 15 7 16 5
+the in of of The version EDSAC by Hartley University for Cambridge 2 Laboratory 1961 Mathematical devised was;4 17 11 13 1 2 5 9 10 12 3 14 6 16 18 15 8
+early Another by US, Grace in the FLOW-MATIC programming Hopper devised called was language;2 1 7 12 8 10 11 14 3 9 6 13 5
+2000 and was not However, implemented 1998 it until;9 8 3 4 1 5 7 2
+programming first The language;3 2 1
+programs Manchester The written ran Mark 1952 1 in Autocode from;6 2 1 7 5 3 11 4 8 9

@@ -1,0 +1,20 @@
+At the University of Manchester, Alick Glennie developed Autocode in the early 1950s 
+An early high-level programming language to be designed for a computer was Plankalkul, developed for the German Z3 by Konrad Zuse between 1943 and 1945 
+The version for the EDSAC 2 was devised by Hartley of University of Cambridge Mathematical Laboratory in 1961 
+The second autocode was developed for the Mark 1 by Brooker in 1954 and was called the "Mark 1 Autocode" 
+The first code and compiler was developed in 1952 for the Mark 1 computer at the University of Manchester and is considered to be the first compiled high-level programming language 
+It was developed for the UNIVAC I at Remington Rand during  period from 1955 until 1959 
+However, the program had to be translated into machine code every time it ran, making  process much slower than running the equivalent machine code 
+Unlike machine code, Short Code statements represented mathematical expressions in understandable form 
+However, the program had to be translated into machine code every time it ran, making the process much slower than running the equivalent machine code 
+The version for the EDSAC 2 was devised by Hartley of University of Cambridge Mathematical Laboratory in 1961 
+The first programming languages designed to communicate instructions to a computer were written in the 1950s 
+At the University of Manchester, Alick Glennie developed Autocode in the early 1950s 
+The first code and compiler was developed in 1952 for the Mark 1 computer at the University of Manchester and is considered to be the first compiled high-level programming language 
+However, it was not implemented until 1998 and 2000 
+The language Fortran was developed at IBM in the mid '50s, and became the first widely used high-level general purpose programming language 
+Flow-Matic was a major influence in the design of COBOL, since only it and its direct descendent AIMACO were in actual use at the time 
+The language Fortran was developed at IBM in the mid '50s, and became the first widely used high-level general purpose programming language 
+The first programming languages designed to communicate instructions to a computer were written in the 1950s 
+The version for the EDSAC 2 was devised by Hartley of University of Cambridge Mathematical Laboratory in 1961 
+Another early programming language was devised by Grace Hopper in the US, called FLOW-MATIC
